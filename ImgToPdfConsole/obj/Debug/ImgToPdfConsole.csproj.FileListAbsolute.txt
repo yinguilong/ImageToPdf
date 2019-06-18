@@ -1,0 +1,16 @@
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\ImgToPdfConsole.exe.config
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\ImgToPdfConsole.exe
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\ImgToPdfConsole.pdb
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\ImgToPdf.dll
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\PdfSharp.Charting.dll
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\PdfSharp.dll
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\ImgToPdf.pdb
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\PdfSharp.xml
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\PdfSharp.Charting.xml
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\de\PdfSharp.resources.dll
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\obj\Debug\ImgToPdfConsole.csprojAssemblyReference.cache
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\obj\Debug\ImgToPdfConsole.csproj.CoreCompileInputs.cache
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\obj\Debug\ImgToPdfConsole.csproj.CopyComplete
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\obj\Debug\ImgToPdfConsole.exe
+D:\yin\GitHub\ImgToPdf\ImgToPdfConsole\obj\Debug\ImgToPdfConsole.pdb
